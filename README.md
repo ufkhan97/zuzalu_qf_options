@@ -1,6 +1,6 @@
 # Zuzalu QF Options
 
-This project is a Python-based implementation of Quadratic Funding (QF) options. It uses Jupyter notebooks and Python scripts to process and analyze data related to funding rounds.
+This project is a Python-based implementation of Quadratic Funding (QF) options. It uses Jupyter notebooks and Python scripts to process and analyze data related to Q1 2024 funding rounds.
 
 ## Key Files and Sections
 
